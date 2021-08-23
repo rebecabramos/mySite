@@ -473,6 +473,14 @@ img{
     width: 75%;
 }
 
+.skills__ccharp{
+    width: 80%;
+}
+
+.skills__unity{
+    width: 75%;
+}
+
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
